@@ -1,5 +1,5 @@
-Django==1.4.1
-distribute==0.6.27
-dj-database-url==0.2.1
-psycopg2==2.4.5
+Django==1.6.4
+distribute==0.7.3
+dj-database-url==0.3.0
+psycopg2==2.5.2
 wsgiref==0.1.2
